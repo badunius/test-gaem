@@ -4,7 +4,7 @@
   "cover": "https://cdn.everypony.ru/storage/03/68/76/2022/01/01/a4c5ec7a5e.png",
   "boxArt": "https://cdn.everypony.ru/storage/01/97/61/2022/01/03/1df2d93d49.png",
   "folder": "test_gaem",
-  "launch": "gaem.exe",
+  "launch": "game.exe",
   "screens": [
     "https://cdn.everypony.ru/storage/01/49/01/2021/12/29/86cc778b67.jpg",
     "https://cdn.everypony.ru/storage/01/49/01/2021/12/29/4b524be62c.jpg"
