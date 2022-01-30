@@ -8,5 +8,6 @@
   "screens": [
     "https://cdn.everypony.ru/storage/01/49/01/2021/12/29/86cc778b67.jpg",
     "https://cdn.everypony.ru/storage/01/49/01/2021/12/29/4b524be62c.jpg"
-  ]
+  ],
+  "package":"https://github.com/badunius/test-gaem/releases/download/v1.0.0/package.zip"
 }
