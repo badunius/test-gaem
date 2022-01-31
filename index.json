@@ -1,7 +1,8 @@
 {
   "guid": "guid-1",
   "title": "Test Gaem",
-  "developer": "https://tabun.andreymal.org/profile/KaskeT/",
+  "developerUrl": "https://tabun.andreymal.org/profile/KaskeT/",
+  "developerName": "KaskeT",
   "cover": "https://cdn.everypony.ru/storage/03/68/76/2022/01/01/a4c5ec7a5e.png",
   "boxArt": "https://cdn.everypony.ru/storage/01/97/61/2022/01/03/1df2d93d49.png",
   "folder": "test_gaem",
